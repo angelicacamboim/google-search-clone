@@ -1,0 +1,204 @@
+/* Geral */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+ 
+a, a:visited {
+  color: #1a0dab;
+}
+
+/* Header */
+
+header {
+  background-color: bisque;
+}
+
+#input-box {
+
+}
+
+#input-box img {
+  
+}
+
+#input-box form {
+  
+}
+
+#input-box form input {
+  
+}
+
+#search-icon, #keyboard-icon, #mic-icon  {
+
+}
+
+#search-icon {
+}
+
+#keyboard-icon {
+}
+
+#mic-icon {
+}
+
+#links-list {
+
+}
+
+#links-list li {
+  
+}
+
+#links-list li a {
+
+}
+
+#links-list li span {
+
+}
+
+#links-list li a:hover {
+}
+
+.active-link {
+}
+
+#links-list .active-link a {
+}
+
+/* Corpo do site */
+
+.container {
+  border: 5px dotted black;
+  background-color: pink;
+
+}
+
+main {
+  background-color: palevioletred;
+
+}
+
+aside {
+  background-color: plum;
+
+}
+
+/* Conteúdo principal */
+
+#results {
+ 
+}
+
+.search-result-box {
+}
+
+.container .ref-link {
+
+}
+
+.triangle {
+
+}
+
+.main-link {
+
+}
+
+.main-link:hover {
+}
+
+.search-result-desc {
+  
+}
+
+.info-box {
+
+}
+
+.info {
+
+}
+
+.info-title {
+}
+
+.related-results ul {
+
+}
+
+.related-results li {
+}
+
+.related-results li a {
+
+}
+
+/* Galeria aside */
+
+#gallery-box {
+
+}
+
+#first-img {
+}
+
+#gallery {
+
+}
+
+#gallery div {
+
+}
+
+#gallery-img1 {
+}
+
+#gallery-img2 {
+}
+
+#gallery-img3 {
+
+}
+
+#gallery-img4 {
+}
+
+#gallery-img5 {
+}
+
+#gallery-img6 {
+}
+
+#moreimg-btn {
+ 
+}
+
+#moreimg-btn span {
+}
+
+/* Infos aside */
+
+#about-box {
+}
+
+#name-box {
+ 
+}
+
+#name {
+  
+}
+
+#role {
+
+}
+
+.about-text {
+
+}
+
+.about-text span {
+}
