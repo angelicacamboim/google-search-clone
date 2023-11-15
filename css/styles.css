@@ -165,6 +165,7 @@ aside {
   right: -15px;
 }
 
+/* titulo (link)  */
 .main-link {
   font-size: 20px;
   text-decoration: none;
@@ -183,6 +184,7 @@ aside {
   margin: 5px 0;
 }
 
+/* Caixa de Informação  */
 .info-box {
   display: flex;
   flex-direction: row;
@@ -201,6 +203,8 @@ aside {
 .info-title {
   font-weight: bold;
 }
+
+/* resultados relacionados  */
 
 .related-results ul {
   list-style: none;
@@ -271,6 +275,8 @@ aside {
   background-image: url('../img/turing7.jpg');
 }
 
+/* Mais imagens (aside) */
+
 #moreimg-btn {
   position: absolute;
   right: 0;
@@ -287,7 +293,7 @@ aside {
   margin-right: 5px;
 }
 
-/* Infos aside */
+/* Informações do aside */
 
 #about-box {
   border: 1px solid #EBEBEB;
